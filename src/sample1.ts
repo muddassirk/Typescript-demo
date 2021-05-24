@@ -27,8 +27,8 @@
 // a("z")
 
 
-let firstName: string = "Muhammad";
-let lastName: string = "khan";
-let age: number = 20;
-let isActiveStudent: boolean = true;
-let courses: string[] = ["TS", "JS", "React"];
+// let firstName: string = "Muhammad";
+// let lastName: string = "khan";
+// let age: number = 20;
+// let isActiveStudent: boolean = true;
+// let courses: string[] = ["TS", "JS", "React"];

@@ -15,8 +15,8 @@
 // }
 // // a(2)
 // a("z")
-var firstName = "Muhammad";
-var lastName = "khan";
-var age = 20;
-var isActiveStudent = true;
-var courses = ["TS", "JS", "React"];
+// let firstName: string = "Muhammad";
+// let lastName: string = "khan";
+// let age: number = 20;
+// let isActiveStudent: boolean = true;
+// let courses: string[] = ["TS", "JS", "React"];
